@@ -1,5 +1,6 @@
 # HomeInventoryChecker
 I am looking to develop a web application to check the current database of my my household in this repository. In this page, I wil describe the basic design of the application and workflow, which will help me devise a protype design, on which I will be working on to refine and finally develop the application.
+
 **Input:** I would like to get the product IDs via the following methods:
 1. Manual Entry (which is the most essential one)
 2. Barcode and/or QR scanner
